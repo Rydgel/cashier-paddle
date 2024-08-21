@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/cashier-paddle/compare/v1.11.0...1.x)
+## [Unreleased](https://github.com/laravel/cashier-paddle/compare/v1.11.1...1.x)
+
+## [v1.11.1](https://github.com/laravel/cashier-paddle/compare/v1.11.0...v1.11.1) - 2024-08-08
+
+* Don't trim the request values from Paddle by [@patrickomeara](https://github.com/patrickomeara) in https://github.com/laravel/cashier-paddle/pull/275
 
 ## [v1.11.0](https://github.com/laravel/cashier-paddle/compare/v1.10.0...v1.11.0) - 2024-01-30
 
